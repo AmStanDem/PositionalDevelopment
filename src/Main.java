@@ -1,7 +1,7 @@
 /**
  * @author Thomas Riotto
  * <h1>Sviluppo posizionale</h1>
- * This script performs the positional process of a given number with his base
+ * This script performs the positional development of a given number with his base
  * **/
 public class Main
 {
